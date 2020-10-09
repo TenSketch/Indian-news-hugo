@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>happy news on Indian News</title>
+    <link>https://news-site-hugo.netlify.app/tags/happy-news/</link>
+    <description>Recent content in happy news on Indian News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 16:41:32 +0530</lastBuildDate>
+    
+	<atom:link href="https://news-site-hugo.netlify.app/tags/happy-news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>happy News</title>
+      <link>https://news-site-hugo.netlify.app/news/a/</link>
+      <pubDate>Sun, 12 May 2019 16:41:32 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/news/a/</guid>
+      <description>Hello sweet girl news content goes here. Live news. real news. Live news. real news. Live news. real news. Live news. real news.
+Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news. Live news. real news.</description>
+    </item>
+    
+  </channel>
+</rss>

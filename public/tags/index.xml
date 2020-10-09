@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Indian News</title>
+    <link>https://news-site-hugo.netlify.app/tags/</link>
+    <description>Recent content in Tags on Indian News</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2019 04:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://news-site-hugo.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>brief</title>
+      <link>https://news-site-hugo.netlify.app/tags/brief/</link>
+      <pubDate>Mon, 17 Jun 2019 04:30:00 +0000</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/brief/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>political news</title>
+      <link>https://news-site-hugo.netlify.app/tags/political-news/</link>
+      <pubDate>Mon, 17 Jun 2019 04:30:00 +0000</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/political-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>highlights</title>
+      <link>https://news-site-hugo.netlify.app/tags/highlights/</link>
+      <pubDate>Mon, 17 Jun 2019 03:06:00 +0000</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/highlights/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>https://news-site-hugo.netlify.app/tags/health/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:24 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>political</title>
+      <link>https://news-site-hugo.netlify.app/tags/political/</link>
+      <pubDate>Mon, 10 Jun 2019 19:31:19 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/political/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>entertainment</title>
+      <link>https://news-site-hugo.netlify.app/tags/entertainment/</link>
+      <pubDate>Mon, 10 Jun 2019 14:01:14 +0000</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/entertainment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>employment</title>
+      <link>https://news-site-hugo.netlify.app/tags/employment/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:14 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/employment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manufacturing</title>
+      <link>https://news-site-hugo.netlify.app/tags/manufacturing/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:14 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HR</title>
+      <link>https://news-site-hugo.netlify.app/tags/hr/</link>
+      <pubDate>Mon, 03 Jun 2019 09:38:10 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/hr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hot news</title>
+      <link>https://news-site-hugo.netlify.app/tags/hot-news/</link>
+      <pubDate>Sun, 26 May 2019 14:08:22 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/hot-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>happy news</title>
+      <link>https://news-site-hugo.netlify.app/tags/happy-news/</link>
+      <pubDate>Sun, 12 May 2019 16:41:32 +0530</pubDate>
+      
+      <guid>https://news-site-hugo.netlify.app/tags/happy-news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+baseURL = "https://news-site-hugo.netlify.app/"
+languageCode = "en-us"
+title = "Indian News"
+theme = "hugo-news-theme"

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+{{- partial "head.html" . -}}
+
+<body>
+  {{- partial "header" . -}}
+  {{- block "news-slider" . }}{{- end}}
+  {{- block "main" . }}{{- end}}
+  {{- block "2nd" . }}{{- end}}
+  {{- block "grid-news" . }}{{- end}}
+  {{- partial "footer.html" . -}}
+  {{- partial "scripts" . -}}
+</body>
+
+</html>
